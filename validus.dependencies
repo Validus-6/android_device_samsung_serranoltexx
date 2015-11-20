@@ -12,22 +12,26 @@
   {
     "repository": "CyanogenMod/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common".
-    "branch": "cm-13,0
+    "branch": "cm-13.0
   },
   {
-    "repository": "android_device_samsung_msm8930-common",
-    "target_path": "device/samsung/msm8930-common"
+    "repository": "CyanogenMod/android_device_samsung_msm8930-common",
+    "target_path": "device/samsung/msm8930-common",
+    "branch": "cm-13.0"
   },
   {
-    "repository": "android_device_samsung_serrano-common",
-    "target_path": "device/samsung/serrano-common"
+    "repository": "CyanogenMod/android_device_samsung_serrano-common",
+    "target_path": "device/samsung/serrano-common",
+    "branch": :cm-13.0"
   },
   {
-    "repository": "android_kernel_samsung_msm8930-common",
-    "target_path": "kernel/samsung/msm8930-common"
+    "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
+    "target_path": "kernel/samsung/msm8930-common",
+    "branch": "cm-13.0"
   },
   {
-    "repository": "android_hardware_qcom_fm",
-    "target_path": "hardware/qcom/fm"
+    "repository": "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "branch": "cm-13.0"
   }
 ]
